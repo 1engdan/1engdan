@@ -1,5 +1,3 @@
-# 💫 About Me:
-🎶my mbti ISTP<br>✨im Daria frontend dev<br>🎀learning new technologies and experimenting with interesting ideas<br>
 
 # 💻 Tech Stack:
 - **ide's:**
